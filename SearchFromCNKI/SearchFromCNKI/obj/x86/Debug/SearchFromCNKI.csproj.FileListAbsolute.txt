@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\bin\Debug\SearchFromCNKI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\bin\Debug\SearchFromCNKI.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SearchFromCNKI\SearchFromCNKI\obj\x86\Debug\SearchFromCNKI.pdb
